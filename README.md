@@ -76,6 +76,12 @@ Scene representation networks, https://arxiv.org/abs/1906.01618
 
 Neural scene representation and rendering, https://deepmind.com/blog/article/neural-scene-representation-and-rendering
 
+SCALOR: Generative World Models with Scalable Object Representations, https://arxiv.org/abs/2001.02407
+
+Generative Hierarchical Models for Parts, Objects, and Scenes, https://arxiv.org/abs/1910.09119
+
+SPACE: Unsupervised Object-Oriented Scene Representation via Spatial Attention and Decomposition, https://arxiv.org/abs/2001.02407
+
 
 ## HOW TO SEE
 
@@ -90,6 +96,8 @@ PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition
 ### Similarity Search
 One-Shot Informed Robotic Visual Search in the Wild, https://arxiv.org/abs/2003.10010
 
+### Unsupervised object discovery, detection, and tracking
+SCALOR: Generative World Models with Scalable Object Representations, https://arxiv.org/abs/2001.02407
 
 
 
