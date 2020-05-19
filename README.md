@@ -4,7 +4,7 @@ A curated collection of papers and research materials that students need to be a
 
 ## HOW TO MOVE
 
-![GitHub Logo](/motionplanning.png)
+<img src="https://github.com/rvl-lab-utoronto/lab_onboarding_recommended_reading/blob/master/motionplanning.png" width="30%">
 
 ### Planning
 Week 5, Motion Planning, from Florian's [CSC477](http://www.cs.toronto.edu/~florian/courses/csc477_fall19/)  
@@ -44,7 +44,7 @@ Yisong Yue's [seminar course](https://sites.google.com/view/cs-159-spring-2020/h
 
 ## HOW TO SIMULATE MOTION AND PERCEPTION
 
-![GitHub Logo](/deepmimic.jpg)
+<img src="https://github.com/rvl-lab-utoronto/lab_onboarding_recommended_reading/blob/master/deepmimic.jpg" width="60%">
 
 ### Physics-based animation
 All of these course are about physics-based animation, how to simulate realistic motion, and how to handle contacts, deformable objects. 
@@ -90,7 +90,7 @@ SPACE: Unsupervised Object-Oriented Scene Representation via Spatial Attention a
 
 ## HOW TO SEE
 
-![GitHub Logo](/thermorathaus.jpg)
+<img src="https://github.com/rvl-lab-utoronto/lab_onboarding_recommended_reading/blob/master/thermorathaus.jpg" width="30%">
 
 ### Merging LiDAR pointclouds and RGB image representations
 Joint 3D Proposal Generation and Object Detection from View Aggregation, https://arxiv.org/abs/1712.02294
