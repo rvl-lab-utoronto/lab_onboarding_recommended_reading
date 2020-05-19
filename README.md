@@ -1,13 +1,19 @@
 # Required reading materials to start research at RVL
 A curated collection of papers and research materials that students need to be aware of when they are getting started with research in the lab. They are categorized here in terms of topics:
 
-## How to Move
+## HOW TO MOVE
 
 ### Planning
 Week 5, Motion Planning, from Florian's [CSC477](http://www.cs.toronto.edu/~florian/courses/csc477_fall19/)  
 
+Steve Lavalle's [book](http://lavalle.pl/planning/book.html) is the go-to reference in this field. 
+
 ### Control Theory and Learning
-Lecture 7 on LQR, from Florian's [COMP417](http://www.cim.mcgill.ca/~florian/courses/comp417/website/)  
+Week 3, PID Control, from Florian's [CSC477](http://www.cs.toronto.edu/~florian/courses/csc477_fall19/)
+
+Week 4, LQR, from Florian's [CSC477](http://www.cs.toronto.edu/~florian/courses/csc477_fall19/)
+
+Lecture 2 on LQR, iterative LQR, and model-based RL, from Florian's [grad course](http://www.cs.toronto.edu/~florian/courses/imitation_learning/)  
 
 [Underactuated robotics course at MIT](https://www.youtube.com/channel/UChfUOAhz7ynELF-s_1LPpWg/playlists), 2020 version, from Russ Tedrake. Also check out his [online book](http://underactuated.mit.edu/underactuated.html) on the same topic. 
 
@@ -15,6 +21,8 @@ All of Steve Brunton's [videos](https://www.youtube.com/channel/UCm5mt-A4w61lknZ
 * [Koopman Analysis](https://www.youtube.com/watch?v=K5CRbC4yqnk&list=PLMrJAkhIeNNSVXUvppZTYNHKQUD-oWys9), which turns nonlinear dynamics problems into linear. 
 * [Data-Driven Dynamical Systems](https://www.youtube.com/watch?v=Kap3TZwAsv0&list=PLMrJAkhIeNNR6DzT17-MM1GHLkuYVjhyt), which presents techniques for learning dynamical systems from data
 * [Data-Driven Control](https://www.youtube.com/watch?v=oulLR06lj_E&list=PLMrJAkhIeNNQkv98vuPjO2X2qJO_UPeWR), which presents techniques for learning controllers from data, using learned dynamical systems.
+
+Jean Jacques Slotine's [grad course on nonlinear control](http://web.mit.edu/nsl/www/videos/lectures.html). It covers stability and convergence of nonlinear systems, adaptive control, system identification, and when can you approximate a nonlinear system by a linear system.
 
 ### Imitation Learning
 Florian's [imitation learning seminar course](http://www.cs.toronto.edu/~florian/courses/imitation_learning/). Look at the slides. 
@@ -29,4 +37,4 @@ David Duvenaud's [seminar course](https://duvenaud.github.io/learning-to-search/
 
 Yisong Yue's [seminar course](https://sites.google.com/view/cs-159-spring-2020/home) 
 
-## How to See
+## HOW TO SEE
