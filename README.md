@@ -40,6 +40,8 @@ David Duvenaud's [seminar course](https://duvenaud.github.io/learning-to-search/
 Yisong Yue's [seminar course](https://sites.google.com/view/cs-159-spring-2020/home). Learning for branch and bound optimizers, learning A* heuristics. Lots of good stuff here. 
 
 ## HOW TO SIMULATE
+
+### Physics-based animation
 All of these course are about physics-based animation, how to simulate realistic motion, and how to handle contacts, deformable objects. 
 * [UofT](https://github.com/dilevin/CSC2549-physics-based-animation)
 * [CMU](http://graphics.cs.cmu.edu/courses/15-869-F07/)
@@ -50,6 +52,14 @@ To understand some of the material in these courses you will need to understand 
 * [Clasical physics](https://www.youtube.com/playlist?list=PL5E4E56893588CBA8) by V. Balakrishnan at IIT Madras.
 
 DiffTaichi: Differentiable Programming for Physical Simulation, https://arxiv.org/abs/1910.00935
+
+### Sim-to-real and real-to-sim transfer
+
+The frontier of simulation-based inference, https://arxiv.org/abs/1911.01429
+
+BayesSim: adaptive domain randomization via probabilistic inference for robotics simulators, https://arxiv.org/abs/1906.01728
+
+Domain randomization [blog post](https://lilianweng.github.io/lil-log/2019/05/05/domain-randomization.html)
 
 ## HOW TO SEE
 
