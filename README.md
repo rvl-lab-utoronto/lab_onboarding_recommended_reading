@@ -39,4 +39,16 @@ David Duvenaud's [seminar course](https://duvenaud.github.io/learning-to-search/
 
 Yisong Yue's [seminar course](https://sites.google.com/view/cs-159-spring-2020/home). Learning for branch and bound optimizers, learning A* heuristics. Lots of good stuff here. 
 
+## HOW TO SIMULATE
+All of these course are about physics-based animation, how to simulate realistic motion, and how to handle contacts, deformable objects. 
+* [UofT](https://github.com/dilevin/CSC2549-physics-based-animation)
+* [CMU](http://graphics.cs.cmu.edu/courses/15-869-F07/)
+* [Waterloo](https://cs.uwaterloo.ca/~c2batty/courses/CS888_2014/)
+* [Stanford](http://graphics.stanford.edu/courses/cs348c/)
+
+To understand some of the material in these courses you will need to understand classical physics and mechanics. A good resource is
+* [Clasical physics](https://www.youtube.com/playlist?list=PL5E4E56893588CBA8) by V. Balakrishnan at IIT Madras.
+
 ## HOW TO SEE
+
+
