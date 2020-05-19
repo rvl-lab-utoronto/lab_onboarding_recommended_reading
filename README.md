@@ -39,7 +39,7 @@ David Duvenaud's [seminar course](https://duvenaud.github.io/learning-to-search/
 
 Yisong Yue's [seminar course](https://sites.google.com/view/cs-159-spring-2020/home). Learning for branch and bound optimizers, learning A* heuristics. Lots of good stuff here. 
 
-## HOW TO SIMULATE
+## HOW TO SIMULATE MOTION AND PERCEPTION
 
 ### Physics-based animation
 All of these course are about physics-based animation, how to simulate realistic motion, and how to handle contacts, deformable objects. 
@@ -61,6 +61,37 @@ BayesSim: adaptive domain randomization via probabilistic inference for robotics
 
 Domain randomization [blog post](https://lilianweng.github.io/lil-log/2019/05/05/domain-randomization.html)
 
+Neural ODEs, https://arxiv.org/abs/1806.07366
+
+### Differentiable rendering
+
+Nerf: neural radiance fields, http://www.matthewtancik.com/nerf
+
+Learning to Predict 3D Objects with an Interpolation-based Differentiable Renderer, https://arxiv.org/abs/1908.01210
+
+Soft Rasterizer: A Differentiable Renderer for Image-based 3D Reasoning, https://arxiv.org/abs/1904.01786
+
+### Scene representation
+Scene representation networks, https://arxiv.org/abs/1906.01618
+
+Neural scene representation and rendering, https://deepmind.com/blog/article/neural-scene-representation-and-rendering
+
+
 ## HOW TO SEE
+
+### Merging LiDAR pointclouds and RGB image representations
+Joint 3D Proposal Generation and Object Detection from View Aggregation, https://arxiv.org/abs/1712.02294
+
+### Pointcloud representations
+PointFlow: 3D Point Cloud Generation with Continuous Normalizing Flows, https://arxiv.org/abs/1906.12320
+
+PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition, https://arxiv.org/abs/1804.03492
+
+### Similarity Search
+One-Shot Informed Robotic Visual Search in the Wild, https://arxiv.org/abs/2003.10010
+
+
+
+
 
 
