@@ -85,6 +85,8 @@ Scene representation networks, https://arxiv.org/abs/1906.01618
 
 Neural scene representation and rendering, https://deepmind.com/blog/article/neural-scene-representation-and-rendering
 
+Neural point based graphics, https://saic-violet.github.io/npbg/
+
 SCALOR: Generative World Models with Scalable Object Representations, https://arxiv.org/abs/2001.02407
 
 Generative Hierarchical Models for Parts, Objects, and Scenes, https://arxiv.org/abs/1910.09119
@@ -106,7 +108,9 @@ PointFlow: 3D Point Cloud Generation with Continuous Normalizing Flows, https://
 PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition, https://arxiv.org/abs/1804.03492
 
 ### Similarity Search
-One-Shot Informed Robotic Visual Search in the Wild, https://arxiv.org/abs/2003.10010
+One-Shot Informed Robotic Visual Search in the Wild, https://arxiv.org/abs/2003.10010 See the related works section.
+
+A Metric Learning Reality Check, https://arxiv.org/abs/2003.08505
 
 ### Unsupervised object discovery, detection, and tracking
 SCALOR: Generative World Models with Scalable Object Representations, https://arxiv.org/abs/2001.02407
