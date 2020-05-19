@@ -44,6 +44,16 @@ David Duvenaud's [seminar course](https://duvenaud.github.io/learning-to-search/
 
 Yisong Yue's [seminar course](https://sites.google.com/view/cs-159-spring-2020/home). Learning for branch and bound optimizers, learning A* heuristics. Lots of good stuff here. 
 
+### Safety Considerations in Learning for Control
+Scaling probabilistically safe imitation learning, Scott Niekum, [online talk](https://bluejeans.com/playback/s/zOSHqyZzGhSdPRQPl0448lckmbprGAmzQoTUKOGB5xjntbBZji0GHw2yZelRFH7K), which can also be found [here](https://youtu.be/slGmQv_pWs0).
+
+Backwards reachability for control, via the Hamilton-Jacobi-Bellman equation [survey paper](https://arxiv.org/abs/1709.07523) and [tutorial](https://www.youtube.com/watch?v=iWsfc107nRc). Note that these approaches do not scale in more than 10-15 dimensions.
+
+Introduction to reachability for linear systems, [a tutorial](http://www.dii.unimo.it/~zanasi/didattica/Teoria_dei_Sistemi/Luc_TDS_ING_2016_Reachability_and_Controllability.pdf).
+
+How should a robot assess risk? Towards an axiomatic theory of risk in robotics, by Anirudha Majumdar. [paper](http://asl.stanford.edu/wp-content/papercite-data/pdf/Majumdar.Pavone.ISRR17.pdf) 
+
+
 <br/>
 
 ## HOW TO SIMULATE MOTION AND PERCEPTION
