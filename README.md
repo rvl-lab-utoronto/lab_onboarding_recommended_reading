@@ -1,5 +1,5 @@
-# Required reading materials to start research at RVL
-A curated collection of papers and research materials that students need to be aware of when they are getting started with research in the lab. They are categorized here in terms of topics:
+# Recommended reading materials to start research at RVL
+A curated collection of papers and research materials that students need to be aware of when they are getting started with research in the lab. Students are definitely not expected to read all of them, but the resources that are most related to their work. They are categorized here in terms of topics:
 
 ## HOW TO MOVE
 
@@ -48,6 +48,8 @@ All of these course are about physics-based animation, how to simulate realistic
 
 To understand some of the material in these courses you will need to understand classical physics and mechanics. A good resource is
 * [Clasical physics](https://www.youtube.com/playlist?list=PL5E4E56893588CBA8) by V. Balakrishnan at IIT Madras.
+
+DiffTaichi: Differentiable Programming for Physical Simulation, https://arxiv.org/abs/1910.00935
 
 ## HOW TO SEE
 
