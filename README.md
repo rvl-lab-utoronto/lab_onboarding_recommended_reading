@@ -1,9 +1,10 @@
 # Recommended reading materials to start research at RVL
 A curated collection of papers and research materials that students need to be aware of when they are getting started with research in the lab. Students are definitely not expected to read all of them, but the resources that are most related to their work. They are categorized here in terms of topics:
 
-![GitHub Logo](/motionplanning.png)
 
 ## HOW TO MOVE
+
+![GitHub Logo](/motionplanning.png)
 
 ### Planning
 Week 5, Motion Planning, from Florian's [CSC477](http://www.cs.toronto.edu/~florian/courses/csc477_fall19/)  
@@ -42,6 +43,8 @@ David Duvenaud's [seminar course](https://duvenaud.github.io/learning-to-search/
 Yisong Yue's [seminar course](https://sites.google.com/view/cs-159-spring-2020/home). Learning for branch and bound optimizers, learning A* heuristics. Lots of good stuff here. 
 
 ## HOW TO SIMULATE MOTION AND PERCEPTION
+
+![GitHub Logo](/deepmimic.jpg)
 
 ### Physics-based animation
 All of these course are about physics-based animation, how to simulate realistic motion, and how to handle contacts, deformable objects. 
@@ -86,6 +89,8 @@ SPACE: Unsupervised Object-Oriented Scene Representation via Spatial Attention a
 
 
 ## HOW TO SEE
+
+![GitHub Logo](/thermorathaus.jpg)
 
 ### Merging LiDAR pointclouds and RGB image representations
 Joint 3D Proposal Generation and Object Detection from View Aggregation, https://arxiv.org/abs/1712.02294
