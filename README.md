@@ -33,8 +33,10 @@ Florian's [imitation learning seminar course](http://www.cs.toronto.edu/~florian
 [Deep RL course at Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/), by Sergey Levine. Check out the youtube videos. This course is good for both discrete and continuous state and action RL, so it is applicable to robotics.
 
 ### Learning to Plan/Search
-David Duvenaud's [seminar course](https://duvenaud.github.io/learning-to-search/)
+These courses are about having controllers/policies/planning algorithms that get better over time, as they solve more problems. These two courses are unique in the world and very much bleeding edge.
 
-Yisong Yue's [seminar course](https://sites.google.com/view/cs-159-spring-2020/home) 
+David Duvenaud's [seminar course](https://duvenaud.github.io/learning-to-search/). Combining Monte Carlo Tree Search with neural networks, learning from expensive algorithms.
+
+Yisong Yue's [seminar course](https://sites.google.com/view/cs-159-spring-2020/home). Learning for branch and bound optimizers, learning A* heuristics. Lots of good stuff here. 
 
 ## HOW TO SEE
