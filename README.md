@@ -2,6 +2,8 @@
 A curated collection of papers and research materials that students need to be aware of when they are getting started with research in the lab. Students are definitely not expected to read all of them, but the resources that are most related to their work. They are categorized here in terms of topics:
 
 
+<br/>
+
 ## HOW TO MOVE
 
 <img src="https://github.com/rvl-lab-utoronto/lab_onboarding_recommended_reading/blob/master/motionplanning.png" width="30%">
@@ -41,6 +43,8 @@ These courses are about having controllers/policies/planning algorithms that get
 David Duvenaud's [seminar course](https://duvenaud.github.io/learning-to-search/). Combining Monte Carlo Tree Search with neural networks, learning from expensive algorithms.
 
 Yisong Yue's [seminar course](https://sites.google.com/view/cs-159-spring-2020/home). Learning for branch and bound optimizers, learning A* heuristics. Lots of good stuff here. 
+
+<br/>
 
 ## HOW TO SIMULATE MOTION AND PERCEPTION
 
@@ -87,6 +91,7 @@ Generative Hierarchical Models for Parts, Objects, and Scenes, https://arxiv.org
 
 SPACE: Unsupervised Object-Oriented Scene Representation via Spatial Attention and Decomposition, https://arxiv.org/abs/2001.02407
 
+<br/>
 
 ## HOW TO SEE
 
