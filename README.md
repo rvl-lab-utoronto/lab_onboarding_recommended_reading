@@ -13,7 +13,7 @@ Week 5, Motion Planning, from Florian's [CSC477](http://www.cs.toronto.edu/~flor
 
 Steve Lavalle's [book](http://lavalle.pl/planning/book.html) is the go-to reference in this field. 
 
-### Control Theory and Learning
+### Control theory and learning
 Week 3, PID Control, from Florian's [CSC477](http://www.cs.toronto.edu/~florian/courses/csc477_fall19/)
 
 Week 4, LQR, from Florian's [CSC477](http://www.cs.toronto.edu/~florian/courses/csc477_fall19/)
@@ -29,22 +29,22 @@ All of Steve Brunton's [videos](https://www.youtube.com/channel/UCm5mt-A4w61lknZ
 
 Jean Jacques Slotine's [grad course on nonlinear control](http://web.mit.edu/nsl/www/videos/lectures.html). It covers stability and convergence of nonlinear systems, adaptive control, system identification, and when can you approximate a nonlinear system by a linear system.
 
-### Imitation Learning
+### Imitation learning
 Florian's [imitation learning seminar course](http://www.cs.toronto.edu/~florian/courses/imitation_learning/). Look at the slides. 
 
-### Reinforcement Learning
+### Reinforcement learning
 [RL course at UCL](https://www.davidsilver.uk/teaching/), by David Silver. Check out the slides and youtube videos. This course is good for discrete RL in games like chess and Go, so definitely not tailored to robotics.
 
 [Deep RL course at Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/), by Sergey Levine. Check out the youtube videos. This course is good for both discrete and continuous state and action RL, so it is applicable to robotics.
 
-### Learning to Plan/Search
+### Learning to plan/search
 These courses are about having controllers/policies/planning algorithms that get better over time, as they solve more problems. These two courses are unique in the world and very much bleeding edge.
 
 David Duvenaud's [seminar course](https://duvenaud.github.io/learning-to-search/). Combining Monte Carlo Tree Search with neural networks, learning from expensive algorithms.
 
 Yisong Yue's [seminar course](https://sites.google.com/view/cs-159-spring-2020/home). Learning for branch and bound optimizers, learning A* heuristics. Lots of good stuff here. 
 
-### Safety Considerations in Learning for Control
+### Safety considerations in learning for control
 Scaling probabilistically safe imitation learning, Scott Niekum, [online talk](https://bluejeans.com/playback/s/zOSHqyZzGhSdPRQPl0448lckmbprGAmzQoTUKOGB5xjntbBZji0GHw2yZelRFH7K), which can also be found [here](https://youtu.be/slGmQv_pWs0).
 
 Backwards reachability for control, via the Hamilton-Jacobi-Bellman equation [survey paper](https://arxiv.org/abs/1709.07523) and [tutorial](https://www.youtube.com/watch?v=iWsfc107nRc). Note that these approaches do not scale in more than 10-15 dimensions.
@@ -117,7 +117,7 @@ PointFlow: 3D Point Cloud Generation with Continuous Normalizing Flows, https://
 
 PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition, https://arxiv.org/abs/1804.03492
 
-### Similarity Search
+### Similarity search
 One-Shot Informed Robotic Visual Search in the Wild, https://arxiv.org/abs/2003.10010 See the related works section.
 
 A Metric Learning Reality Check, https://arxiv.org/abs/2003.08505
