@@ -53,6 +53,9 @@ Introduction to reachability for linear systems, [a tutorial](http://www.dii.uni
 
 How should a robot assess risk? Towards an axiomatic theory of risk in robotics, by Anirudha Majumdar. [paper](http://asl.stanford.edu/wp-content/papercite-data/pdf/Majumdar.Pavone.ISRR17.pdf) 
 
+A [survey paper](http://jmlr.org/papers/v16/garcia15a.html) on safe RL
+
+Constrained Policy Optimization [paper](https://arxiv.org/abs/1705.10528)
 
 <br/>
 
@@ -89,6 +92,8 @@ Nerf: neural radiance fields, http://www.matthewtancik.com/nerf
 Learning to Predict 3D Objects with an Interpolation-based Differentiable Renderer, https://arxiv.org/abs/1908.01210
 
 Soft Rasterizer: A Differentiable Renderer for Image-based 3D Reasoning, https://arxiv.org/abs/1904.01786
+
+Mitsuba2: A Retargetable Forward and Inverse Renderer [paper](https://rgl.epfl.ch/publications/NimierDavidVicini2019Mitsuba2) 
 
 ### Scene representation
 Scene representation networks, https://arxiv.org/abs/1906.01618
