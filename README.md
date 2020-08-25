@@ -47,6 +47,8 @@ Yisong Yue's [seminar course](https://sites.google.com/view/cs-159-spring-2020/h
 ### Safety considerations in learning for control
 Scaling probabilistically safe imitation learning, Scott Niekum, [online talk](https://bluejeans.com/playback/s/zOSHqyZzGhSdPRQPl0448lckmbprGAmzQoTUKOGB5xjntbBZji0GHw2yZelRFH7K), which can also be found [here](https://youtu.be/slGmQv_pWs0).
 
+Safe Learning MPC, by Melanie Zeilinger, [online talk](https://www.sciencedirect.com/science/article/pii/S1367578817301232)
+
 Backwards reachability for control, via the Hamilton-Jacobi-Bellman equation [survey paper](https://arxiv.org/abs/1709.07523) and [tutorial](https://www.youtube.com/watch?v=iWsfc107nRc). Note that these approaches do not scale in more than 10-15 dimensions.
 
 Introduction to reachability for linear systems, [a tutorial](http://www.dii.unimo.it/~zanasi/didattica/Teoria_dei_Sistemi/Luc_TDS_ING_2016_Reachability_and_Controllability.pdf).
