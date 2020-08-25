@@ -122,6 +122,7 @@ SPACE: Unsupervised Object-Oriented Scene Representation via Spatial Attention a
 
 ### Merging LiDAR pointclouds and RGB image representations
 Joint 3D Proposal Generation and Object Detection from View Aggregation, https://arxiv.org/abs/1712.02294
+Multi-View 3D Object Detection Network for Autonomous Driving, https://arxiv.org/abs/1611.07759
 
 ### Pointcloud representations
 PointFlow: 3D Point Cloud Generation with Continuous Normalizing Flows, https://arxiv.org/abs/1906.12320
