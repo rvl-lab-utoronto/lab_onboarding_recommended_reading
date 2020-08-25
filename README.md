@@ -73,7 +73,7 @@ All of these course are about physics-based animation, how to simulate realistic
 * [Stanford](http://graphics.stanford.edu/courses/cs348c/)
 
 To understand some of the material in these courses you will need to understand classical physics and mechanics. A good resource is
-* [Clasical physics](https://www.youtube.com/playlist?list=PL5E4E56893588CBA8) by V. Balakrishnan at IIT Madras.
+* [Classical physics](https://www.youtube.com/playlist?list=PL5E4E56893588CBA8) by V. Balakrishnan at IIT Madras.
 
 DiffTaichi: Differentiable Programming for Physical Simulation, https://arxiv.org/abs/1910.00935
 
@@ -104,7 +104,7 @@ Neural scene representation and rendering, https://deepmind.com/blog/article/neu
 
 Neural point based graphics, https://saic-violet.github.io/npbg/
 
-SCALOR: Generative World Models with Scalable Object Representations, https://arxiv.org/abs/2001.02407
+SCALOR: Generative World Models with Scalable Object Representations, https://arxiv.org/abs/1910.02384
 
 Generative Hierarchical Models for Parts, Objects, and Scenes, https://arxiv.org/abs/1910.09119
 
@@ -130,7 +130,7 @@ One-Shot Informed Robotic Visual Search in the Wild, https://arxiv.org/abs/2003.
 A Metric Learning Reality Check, https://arxiv.org/abs/2003.08505
 
 ### Unsupervised object discovery, detection, and tracking
-SCALOR: Generative World Models with Scalable Object Representations, https://arxiv.org/abs/2001.02407
+SCALOR: Generative World Models with Scalable Object Representations, https://arxiv.org/abs/1910.02384
 
 
 
