@@ -13,6 +13,10 @@ Week 5, Motion Planning, from Florian's [CSC477](http://www.cs.toronto.edu/~flor
 
 Steve Lavalle's [book](http://lavalle.pl/planning/book.html) is the go-to reference in this field. 
 
+LazySP, https://arxiv.org/abs/1710.04101
+
+Sidd Srinivasa's [talk](https://www.youtube.com/watch?v=adrVlZegiR0) 
+
 ### Control theory and learning
 Week 3, PID Control, from Florian's [CSC477](http://www.cs.toronto.edu/~florian/courses/csc477_fall19/)
 
