@@ -67,6 +67,10 @@ Constrained Policy Optimization [paper](https://arxiv.org/abs/1705.10528)
 
 Conservative Safety Critics for Exploration, https://openreview.net/forum?id=iaO86DUuKi
 
+### Active learning and information gathering behaviors
+
+Roger Grosse's seminar [course](https://csc2541-f17.github.io/) on uncertainty modeling and active learning
+
 <br/>
 
 ## HOW TO SIMULATE MOTION AND PERCEPTION
