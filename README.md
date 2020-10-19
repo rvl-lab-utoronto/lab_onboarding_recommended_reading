@@ -63,6 +63,8 @@ A [survey paper](http://jmlr.org/papers/v16/garcia15a.html) on safe RL
 
 Constrained Policy Optimization [paper](https://arxiv.org/abs/1705.10528)
 
+Conservative Safety Critics for Exploration, https://openreview.net/forum?id=iaO86DUuKi
+
 <br/>
 
 ## HOW TO SIMULATE MOTION AND PERCEPTION
@@ -99,7 +101,11 @@ Learning to Predict 3D Objects with an Interpolation-based Differentiable Render
 
 Soft Rasterizer: A Differentiable Renderer for Image-based 3D Reasoning, https://arxiv.org/abs/1904.01786
 
+DIB-R, https://nv-tlabs.github.io/DIB-R/ 
+
 Mitsuba2: A Retargetable Forward and Inverse Renderer [paper](https://rgl.epfl.ch/publications/NimierDavidVicini2019Mitsuba2) 
+
+gradSim (differentiable physics and rendering), https://openreview.net/forum?id=c_E8kFWfhp0&noteId=c_E8kFWfhp0
 
 ### Scene representation
 Scene representation networks, https://arxiv.org/abs/1906.01618
