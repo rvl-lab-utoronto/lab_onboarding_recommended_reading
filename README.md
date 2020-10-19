@@ -17,6 +17,8 @@ LazySP, https://arxiv.org/abs/1710.04101
 
 Sidd Srinivasa's [talk](https://www.youtube.com/watch?v=adrVlZegiR0) 
 
+Task and Motion Planning, http://people.csail.mit.edu/lpk/papers/hpn2.pdf
+
 ### Control theory and learning
 Week 3, PID Control, from Florian's [CSC477](http://www.cs.toronto.edu/~florian/courses/csc477_fall19/)
 
