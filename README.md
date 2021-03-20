@@ -38,6 +38,8 @@ Jean Jacques Slotine's [grad course on nonlinear control](http://web.mit.edu/nsl
 ### Imitation learning
 Florian's [imitation learning seminar course](http://www.cs.toronto.edu/~florian/courses/imitation_learning/). Look at the slides. 
 
+Yisong Yue's [imitation learning talk](https://www.youtube.com/watch?v=QW0I10a2T54&ab_channel=ControlMeetsLearning)
+
 ### Reinforcement learning
 [RL course at UCL](https://www.davidsilver.uk/teaching/), by David Silver. Check out the slides and youtube videos. This course is good for discrete RL in games like chess and Go, so definitely not tailored to robotics.
 
@@ -55,6 +57,8 @@ Scaling probabilistically safe imitation learning, Scott Niekum, [online talk](h
 
 Safe Learning MPC, by Melanie Zeilinger, [online talk](https://www.sciencedirect.com/science/article/pii/S1367578817301232)
 
+Safety-critical continuous and discrete-continuous systems, by Aaron Ames, [online talk](https://www.youtube.com/watch?v=ZC3T_P_8xpE&ab_channel=InstituteforPure%26AppliedMathematics%28IPAM%29)
+
 Backwards reachability for control, via the Hamilton-Jacobi-Bellman equation [survey paper](https://arxiv.org/abs/1709.07523) and [tutorial](https://www.youtube.com/watch?v=iWsfc107nRc). Note that these approaches do not scale in more than 10-15 dimensions.
 
 Introduction to reachability for linear systems, [a tutorial](http://www.dii.unimo.it/~zanasi/didattica/Teoria_dei_Sistemi/Luc_TDS_ING_2016_Reachability_and_Controllability.pdf).
@@ -66,6 +70,7 @@ A [survey paper](http://jmlr.org/papers/v16/garcia15a.html) on safe RL
 Constrained Policy Optimization [paper](https://arxiv.org/abs/1705.10528)
 
 Conservative Safety Critics for Exploration, https://openreview.net/forum?id=iaO86DUuKi
+
 
 ### Active learning and information gathering behaviors
 
