@@ -76,6 +76,8 @@ Conservative Safety Critics for Exploration, https://openreview.net/forum?id=iaO
 
 Roger Grosse's seminar [course](https://csc2541-f17.github.io/) on uncertainty modeling and active learning
 
+VIME: Variational Information Maximizing Exploration, https://arxiv.org/abs/1605.09674
+
 <br/>
 
 ## HOW TO SIMULATE MOTION AND PERCEPTION
@@ -139,12 +141,15 @@ SPACE: Unsupervised Object-Oriented Scene Representation via Spatial Attention a
 
 ### Merging LiDAR pointclouds and RGB image representations
 Joint 3D Proposal Generation and Object Detection from View Aggregation, https://arxiv.org/abs/1712.02294
+
 Multi-View 3D Object Detection Network for Autonomous Driving, https://arxiv.org/abs/1611.07759
 
 ### Pointcloud representations
 PointFlow: 3D Point Cloud Generation with Continuous Normalizing Flows, https://arxiv.org/abs/1906.12320
 
 PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition, https://arxiv.org/abs/1804.03492
+
+SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks, https://arxiv.org/abs/2006.10503
 
 ### Similarity search
 One-Shot Informed Robotic Visual Search in the Wild, https://arxiv.org/abs/2003.10010 See the related works section.
