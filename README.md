@@ -17,7 +17,13 @@ LazySP, https://arxiv.org/abs/1710.04101
 
 Sidd Srinivasa's [talk](https://www.youtube.com/watch?v=adrVlZegiR0) 
 
-Task and Motion Planning, http://people.csail.mit.edu/lpk/papers/hpn2.pdf
+### Task and Motion Planning 
+
+Hierarchical TAMP in the now, http://people.csail.mit.edu/lpk/papers/hpn2.pdf
+
+Logic Geometric Programming and differentiable modes, http://roboticsproceedings.org/rss14/p44.pdf
+
+PDDLStream, https://arxiv.org/abs/1802.08705
 
 ### Control theory and learning
 Week 3, PID Control, from Florian's [CSC477](http://www.cs.toronto.edu/~florian/courses/csc477_fall19/)
@@ -151,10 +157,14 @@ PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition
 
 SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks, https://arxiv.org/abs/2006.10503
 
-### Similarity search
+### Contrastive representation learning and imilarity search
 One-Shot Informed Robotic Visual Search in the Wild, https://arxiv.org/abs/2003.10010 See the related works section.
 
 A Metric Learning Reality Check, https://arxiv.org/abs/2003.08505
+
+A Theoretical Analysis of Contrastive Unsupervised Representation Learning, https://arxiv.org/abs/1902.09229
+
+Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere, https://arxiv.org/abs/2005.10242
 
 ### Unsupervised object discovery, detection, and tracking
 SCALOR: Generative World Models with Scalable Object Representations, https://arxiv.org/abs/1910.02384
