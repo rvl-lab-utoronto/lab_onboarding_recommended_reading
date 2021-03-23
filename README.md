@@ -157,7 +157,7 @@ PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition
 
 SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks, https://arxiv.org/abs/2006.10503
 
-### Contrastive representation learning and imilarity search
+### Contrastive representation learning and similarity search
 One-Shot Informed Robotic Visual Search in the Wild, https://arxiv.org/abs/2003.10010 See the related works section.
 
 A Metric Learning Reality Check, https://arxiv.org/abs/2003.08505
