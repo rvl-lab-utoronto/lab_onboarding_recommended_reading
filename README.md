@@ -41,6 +41,13 @@ All of Steve Brunton's [videos](https://www.youtube.com/channel/UCm5mt-A4w61lknZ
 
 Jean Jacques Slotine's [grad course on nonlinear control](http://web.mit.edu/nsl/www/videos/lectures.html). It covers stability and convergence of nonlinear systems, adaptive control, system identification, and when can you approximate a nonlinear system by a linear system.
 
+Nikolai Matni's [grad course on learning and control](https://nikolaimatni.github.io/courses/ese680-fall2019/index.html)
+
+AA 203: Optimal and Learning-Based Control http://asl.stanford.edu/aa203/
+
+Control meets learning seminar series https://sites.google.com/view/control-meets-learning/
+
+
 ### Imitation learning
 Florian's [imitation learning seminar course](http://www.cs.toronto.edu/~florian/courses/imitation_learning/). Look at the slides. 
 
