@@ -146,6 +146,10 @@ Generative Hierarchical Models for Parts, Objects, and Scenes, https://arxiv.org
 
 SPACE: Unsupervised Object-Oriented Scene Representation via Spatial Attention and Decomposition, https://arxiv.org/abs/2001.02407
 
+Animesh Garg's graduate seminar course on 3D and Geometric Deep Learning
+https://www.pair.toronto.edu/csc2547-w21/
+
+
 <br/>
 
 ## HOW TO SEE
