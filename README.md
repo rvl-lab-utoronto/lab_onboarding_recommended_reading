@@ -43,6 +43,8 @@ Jean Jacques Slotine's [grad course on nonlinear control](http://web.mit.edu/nsl
 
 Nikolai Matni's [grad course on learning and control](https://nikolaimatni.github.io/courses/ese680-fall2019/index.html)
 
+Advanced [dynamics course from Zac Manchester](https://www.youtube.com/playlist?list=PLZnJoM76RM6ItAfZIxJYNKdaR_BobleLY) 
+
 AA 203: Optimal and Learning-Based Control http://asl.stanford.edu/aa203/
 
 Control meets learning seminar series https://sites.google.com/view/control-meets-learning/
