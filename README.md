@@ -1,5 +1,5 @@
 # Recommended reading materials to start research at RVL
-A curated collection of papers and research materials that students need to be aware of when they are getting started with research in the lab. Students are definitely not expected to read all of them, but the resources that are most related to their work. They are categorized here in terms of topics:
+A curated collection of papers and research materials that students need to be aware of when they are getting started with research in the lab. Students are not expected to read all of them, only the resources that are most related to their work. They are categorized here in terms of topics:
 
 
 <br/>
