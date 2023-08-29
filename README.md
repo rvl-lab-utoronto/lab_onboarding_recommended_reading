@@ -13,17 +13,17 @@ Week 5, Motion Planning, from Florian's [CSC477](http://www.cs.toronto.edu/~flor
 
 Steve Lavalle's [book](http://lavalle.pl/planning/book.html) is the go-to reference in this field. 
 
-LazySP, https://arxiv.org/abs/1710.04101
+[LazySP](https://arxiv.org/abs/1710.04101)
 
 Sidd Srinivasa's [talk](https://www.youtube.com/watch?v=adrVlZegiR0) 
 
 ### Task and Motion Planning 
 
-Hierarchical TAMP in the now, http://people.csail.mit.edu/lpk/papers/hpn2.pdf
+[Hierarchical TAMP in the now](http://people.csail.mit.edu/lpk/papers/hpn2.pdf)
 
-Logic Geometric Programming and differentiable modes, http://roboticsproceedings.org/rss14/p44.pdf
+[Logic Geometric Programming and differentiable modes](http://roboticsproceedings.org/rss14/p44.pdf)
 
-PDDLStream, https://arxiv.org/abs/1802.08705
+[PDDLStream](https://arxiv.org/abs/1802.08705)
 
 ### Control theory and learning
 Week 3, PID Control, from Florian's [CSC477](http://www.cs.toronto.edu/~florian/courses/csc477_fall19/)
@@ -99,7 +99,7 @@ Constrained Policy Optimization [paper](https://arxiv.org/abs/1705.10528)
 
 Roger Grosse's seminar [course](https://csc2541-f17.github.io/) on uncertainty modeling and active learning
 
-VIME: Variational Information Maximizing Exploration, https://arxiv.org/abs/1605.09674
+[VIME: Variational Information Maximizing Exploration](https://arxiv.org/abs/1605.09674)
 
 <br/>
 
@@ -117,47 +117,46 @@ All of these course are about physics-based animation, how to simulate realistic
 To understand some of the material in these courses you will need to understand classical physics and mechanics. A good resource is
 * [Classical physics](https://www.youtube.com/playlist?list=PL5E4E56893588CBA8) by V. Balakrishnan at IIT Madras.
 
-DiffTaichi: Differentiable Programming for Physical Simulation, https://arxiv.org/abs/1910.00935
+[DiffTaichi: Differentiable Programming for Physical Simulation](https://arxiv.org/abs/1910.00935)
 
 ### Sim-to-real and real-to-sim transfer
 
-The frontier of simulation-based inference, https://arxiv.org/abs/1911.01429
+[The frontier of simulation-based inference](https://arxiv.org/abs/1911.01429)
 
-BayesSim: adaptive domain randomization via probabilistic inference for robotics simulators, https://arxiv.org/abs/1906.01728
+[BayesSim: adaptive domain randomization via probabilistic inference for robotics simulators](https://arxiv.org/abs/1906.01728)
 
 Domain randomization [blog post](https://lilianweng.github.io/lil-log/2019/05/05/domain-randomization.html)
 
-Neural ODEs, https://arxiv.org/abs/1806.07366
+[Neural ODEs](https://arxiv.org/abs/1806.07366)
 
 ### Differentiable rendering
 
-Nerf: neural radiance fields, http://www.matthewtancik.com/nerf
+[Nerf: neural radiance fields](http://www.matthewtancik.com/nerf)
 
-Learning to Predict 3D Objects with an Interpolation-based Differentiable Renderer, https://arxiv.org/abs/1908.01210
+[Learning to Predict 3D Objects with an Interpolation-based Differentiable Renderer](https://arxiv.org/abs/1908.01210)
 
-Soft Rasterizer: A Differentiable Renderer for Image-based 3D Reasoning, https://arxiv.org/abs/1904.01786
+[Soft Rasterizer: A Differentiable Renderer for Image-based 3D Reasoning](https://arxiv.org/abs/1904.01786)
 
-DIB-R, https://nv-tlabs.github.io/DIB-R/ 
+[DIB-R](https://nv-tlabs.github.io/DIB-R/) 
 
 Mitsuba2: A Retargetable Forward and Inverse Renderer [paper](https://rgl.epfl.ch/publications/NimierDavidVicini2019Mitsuba2) 
 
-gradSim (differentiable physics and rendering), https://openreview.net/forum?id=c_E8kFWfhp0&noteId=c_E8kFWfhp0
+[gradSim (differentiable physics and rendering)](https://openreview.net/forum?id=c_E8kFWfhp0&noteId=c_E8kFWfhp0)
 
 ### Scene representation
-Scene representation networks, https://arxiv.org/abs/1906.01618
+[Scene representation networks](https://arxiv.org/abs/1906.01618)
 
-Neural scene representation and rendering, https://deepmind.com/blog/article/neural-scene-representation-and-rendering
+[Neural scene representation and rendering](https://deepmind.com/blog/article/neural-scene-representation-and-rendering)
 
-Neural point based graphics, https://saic-violet.github.io/npbg/
+[Neural point based graphics](https://saic-violet.github.io/npbg/)
 
-SCALOR: Generative World Models with Scalable Object Representations, https://arxiv.org/abs/1910.02384
+[SCALOR: Generative World Models with Scalable Object Representations](https://arxiv.org/abs/1910.02384)
 
-Generative Hierarchical Models for Parts, Objects, and Scenes, https://arxiv.org/abs/1910.09119
+[Generative Hierarchical Models for Parts, Objects, and Scenes](https://arxiv.org/abs/1910.09119)
 
-SPACE: Unsupervised Object-Oriented Scene Representation via Spatial Attention and Decomposition, https://arxiv.org/abs/2001.02407
+[SPACE: Unsupervised Object-Oriented Scene Representation via Spatial Attention and Decomposition](https://arxiv.org/abs/2001.02407)
 
-Animesh Garg's graduate seminar course on 3D and Geometric Deep Learning
-https://www.pair.toronto.edu/csc2547-w21/
+[Animesh Garg's graduate seminar course on 3D and Geometric Deep Learning](https://www.pair.toronto.edu/csc2547-w21/)
 
 
 <br/>
@@ -167,28 +166,28 @@ https://www.pair.toronto.edu/csc2547-w21/
 <img src="https://github.com/rvl-lab-utoronto/lab_onboarding_recommended_reading/blob/master/thermorathaus.jpg" width="30%">
 
 ### Merging LiDAR pointclouds and RGB image representations
-Joint 3D Proposal Generation and Object Detection from View Aggregation, https://arxiv.org/abs/1712.02294
+[Joint 3D Proposal Generation and Object Detection from View Aggregation](https://arxiv.org/abs/1712.02294)
 
-Multi-View 3D Object Detection Network for Autonomous Driving, https://arxiv.org/abs/1611.07759
+[Multi-View 3D Object Detection Network for Autonomous Driving](https://arxiv.org/abs/1611.07759)
 
 ### Pointcloud representations
-PointFlow: 3D Point Cloud Generation with Continuous Normalizing Flows, https://arxiv.org/abs/1906.12320
+[PointFlow: 3D Point Cloud Generation with Continuous Normalizing Flows](https://arxiv.org/abs/1906.12320)
 
-PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition, https://arxiv.org/abs/1804.03492
+[PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition](https://arxiv.org/abs/1804.03492)
 
-SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks, https://arxiv.org/abs/2006.10503
+[SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks](https://arxiv.org/abs/2006.10503)
 
 ### Contrastive representation learning and similarity search
-One-Shot Informed Robotic Visual Search in the Wild, https://arxiv.org/abs/2003.10010 See the related works section.
+[One-Shot Informed Robotic Visual Search in the Wild](https://arxiv.org/abs/2003.10010). See the related works section.
 
-A Metric Learning Reality Check, https://arxiv.org/abs/2003.08505
+[A Metric Learning Reality Check](https://arxiv.org/abs/2003.08505)
 
-A Theoretical Analysis of Contrastive Unsupervised Representation Learning, https://arxiv.org/abs/1902.09229
+[A Theoretical Analysis of Contrastive Unsupervised Representation Learning](https://arxiv.org/abs/1902.09229)
 
-Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere, https://arxiv.org/abs/2005.10242
+[Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere](https://arxiv.org/abs/2005.10242)
 
 ### Unsupervised object discovery, detection, and tracking
-SCALOR: Generative World Models with Scalable Object Representations, https://arxiv.org/abs/1910.02384
+[SCALOR: Generative World Models with Scalable Object Representations](https://arxiv.org/abs/1910.02384)
 
 
 
