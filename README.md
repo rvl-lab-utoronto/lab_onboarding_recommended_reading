@@ -62,7 +62,7 @@ Advanced [dynamics course from Zac Manchester](https://www.youtube.com/playlist?
 
 [Topics in Advanced Robotic Manipulation, Jeannette Bohg](http://web.stanford.edu/class/cs326/)
 
-
+[Advanced Robotic Manipulation, Oussama Khatib](https://www.ce.cit.tum.de/fileadmin/w00cgn/rm/pdf/AdvancedRoboticManipulation.pdf)
 
 ### Imitation learning
 Florian's [imitation learning seminar course](http://www.cs.toronto.edu/~florian/courses/imitation_learning/). Look at the slides. 
