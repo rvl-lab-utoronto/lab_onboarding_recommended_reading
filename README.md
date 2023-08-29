@@ -74,7 +74,10 @@ Yisong Yue's [imitation learning talk](https://www.youtube.com/watch?v=QW0I10a2T
 
 [Deep RL course at Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/), by Sergey Levine. Check out the youtube videos. This course is good for both discrete and continuous state and action RL, so it is applicable to robotics.
 
-What is a good state representation/encoding for RL? See these papers and their related works to get started: https://arxiv.org/abs/2207.08229 (state encoding should be predictive of the next action in a multi-step inverse dynamics model), https://arxiv.org/abs/2212.14511 (state encoding should be predictive of rewards), or https://arxiv.org/abs/1811.04551 (state encoding should be predictive of next states, rewards, and able to reconstruct observations).
+What is a good state representation/encoding for RL? See these papers and their related works to get started: 
+* https://arxiv.org/abs/2207.08229 (state encoding should be predictive of the next action in a multi-step inverse dynamics model)
+* https://arxiv.org/abs/2212.14511 (state encoding should be predictive of rewards)
+* https://arxiv.org/abs/1811.04551 (state encoding should be predictive of next states, rewards, and able to reconstruct observations)
 
 [Exploration strategies in deep RL](https://lilianweng.github.io/posts/2020-06-07-exploration-drl/)
 
