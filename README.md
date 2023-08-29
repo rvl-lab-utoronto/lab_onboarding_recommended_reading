@@ -8,7 +8,7 @@ A curated collection of papers and research materials that students need to be a
 
 <img src="https://github.com/rvl-lab-utoronto/lab_onboarding_recommended_reading/blob/master/motionplanning.png" width="30%">
 
-### Planning
+### Motion Planning
 Week 5, Motion Planning, from Florian's [CSC477](http://www.cs.toronto.edu/~florian/courses/csc477_fall19/)  
 
 Steve Lavalle's [book](http://lavalle.pl/planning/book.html) is the go-to reference in this field. 
@@ -16,6 +16,10 @@ Steve Lavalle's [book](http://lavalle.pl/planning/book.html) is the go-to refere
 [LazySP](https://arxiv.org/abs/1710.04101)
 
 Sidd Srinivasa's [talk](https://www.youtube.com/watch?v=adrVlZegiR0) 
+
+[Informed RRT*](https://arxiv.org/abs/1404.2334)
+
+[BIT*](https://ieeexplore.ieee.org/abstract/document/7139620)
 
 ### Task and Motion Planning 
 
@@ -45,9 +49,19 @@ Nikolai Matni's [grad course on learning and control](https://nikolaimatni.githu
 
 Advanced [dynamics course from Zac Manchester](https://www.youtube.com/playlist?list=PLZnJoM76RM6ItAfZIxJYNKdaR_BobleLY) 
 
-AA 203: Optimal and Learning-Based Control http://asl.stanford.edu/aa203/
+[AA 203: Optimal and Learning-Based Control](http://asl.stanford.edu/aa203/)
 
-Control meets learning seminar series https://sites.google.com/view/control-meets-learning/
+[Control meets learning seminar series](https://sites.google.com/view/control-meets-learning/)
+
+[gradSim (differentiable physics and rendering)](https://openreview.net/forum?id=c_E8kFWfhp0&noteId=c_E8kFWfhp0) for system identification
+
+
+### Manipulation Robotics
+
+[Robotic Manipulation, Russ Tedrake](https://manipulation.csail.mit.edu/index.html)
+
+[Topics in Advanced Robotic Manipulation, Jeannette Bohg](http://web.stanford.edu/class/cs326/)
+
 
 
 ### Imitation learning
@@ -60,7 +74,7 @@ Yisong Yue's [imitation learning talk](https://www.youtube.com/watch?v=QW0I10a2T
 
 [Deep RL course at Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/), by Sergey Levine. Check out the youtube videos. This course is good for both discrete and continuous state and action RL, so it is applicable to robotics.
 
-[Guaranteed Discovery of Control-Endogenous Latent States with Multi-Step Inverse Models](https://arxiv.org/abs/2207.08229). See the related works section to learn more about state representations for RL. See also this paper and its related works: [Can Direct Latent Model Learning Solve Linear Quadratic Gaussian Control?](https://arxiv.org/abs/2212.14511).
+What is a good state representation/encoding for RL? See these papers and their related works to get started: https://arxiv.org/abs/2207.08229 (state encoding should be predictive of the next action in a multi-step inverse dynamics model), https://arxiv.org/abs/2212.14511 (state encoding should be predictive of rewards), or https://arxiv.org/abs/1811.04551 (state encoding should be predictive of next states, rewards, and able to reconstruct observations).
 
 Monotonic improvement in model-based RL: see https://arxiv.org/abs/1807.03858 and https://arxiv.org/abs/1805.10755  
 
@@ -119,6 +133,8 @@ To understand some of the material in these courses you will need to understand 
 
 [DiffTaichi: Differentiable Programming for Physical Simulation](https://arxiv.org/abs/1910.00935)
 
+[Awesome multibody dynamics simulation](https://github.com/jslee02/awesome-multibody-dynamics-simulation)
+
 ### Sim-to-real and real-to-sim transfer
 
 [The frontier of simulation-based inference](https://arxiv.org/abs/1911.01429)
@@ -131,7 +147,9 @@ Domain randomization [blog post](https://lilianweng.github.io/lil-log/2019/05/05
 
 ### Differentiable rendering
 
-[Nerf: neural radiance fields](http://www.matthewtancik.com/nerf)
+[NeRF: neural radiance fields](http://www.matthewtancik.com/nerf)
+
+[3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
 
 [Learning to Predict 3D Objects with an Interpolation-based Differentiable Renderer](https://arxiv.org/abs/1908.01210)
 
@@ -141,7 +159,6 @@ Domain randomization [blog post](https://lilianweng.github.io/lil-log/2019/05/05
 
 Mitsuba2: A Retargetable Forward and Inverse Renderer [paper](https://rgl.epfl.ch/publications/NimierDavidVicini2019Mitsuba2) 
 
-[gradSim (differentiable physics and rendering)](https://openreview.net/forum?id=c_E8kFWfhp0&noteId=c_E8kFWfhp0)
 
 ### Scene representation
 [Scene representation networks](https://arxiv.org/abs/1906.01618)
@@ -189,7 +206,18 @@ Mitsuba2: A Retargetable Forward and Inverse Renderer [paper](https://rgl.epfl.c
 ### Unsupervised object discovery, detection, and tracking
 [SCALOR: Generative World Models with Scalable Object Representations](https://arxiv.org/abs/1910.02384)
 
+<br/>
 
+## STATE ESTIMATION
+
+[State Estimation for Robotics](http://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser17.pdf), by Tim Barfoot, Professor, University of Toronto
+
+[Bayesian Filtering and Smoothing](https://users.aalto.fi/~ssarkka/pub/cup_book_online_20131111.pdf), by Simo Sarkka, Professor, Aalto University
+
+[Factor Graphs for Robotic Perception](http://www.cs.cmu.edu/~kaess/pub/Dellaert17fnt.pdf), by Profs. Frank Dellaert and Michael Kaess
+
+
+<br/>
 
 ## HOW TO WRITE EFFECTIVELY
 
@@ -197,6 +225,7 @@ Mitsuba2: A Retargetable Forward and Inverse Renderer [paper](https://rgl.epfl.c
 
 [Writing beyond the Academy](https://www.youtube.com/watch?v=aFwVf5a3pZM&list=PLG5oXmrs-KA3EhXr_82Yy9dPGImBTbmuv&index=2), by Larry McEnerney, Director of the University of Chicago's Writing Program
 
+<br/>
 
 ## ADVICE FOR GRADUATE STUDENTS (& their supervisors)
 [Eight lessons learned in two years of PhD](https://ai.engin.umich.edu/2023/08/17/eight-lessons-learned-in-two-years-of-ph-d/), by Muhammad Khalifa, PhD student, U. Michigan
@@ -206,6 +235,9 @@ Mitsuba2: A Retargetable Forward and Inverse Renderer [paper](https://rgl.epfl.c
 [How I read research papers](https://www.let-all.com/assets/slides/How-to-ALT22-Aaditya.pdf), by Aaditya Ramdas, Assistant Professor, CMU
 
 [Principles for a PhD program](https://github.com/coallaoh/Principles/tree/main/principles/phd), by Seong Joon Oh, group leader, U. of Tuebingen 
+
+[How to achieve success in a machine learning PhD](https://kidger.site/thoughts/just-know-stuff/), by Patrick Kidger, PhD student, Oxford.
+
 
 
 
