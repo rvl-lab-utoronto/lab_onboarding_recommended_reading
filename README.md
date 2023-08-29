@@ -64,6 +64,8 @@ Advanced [dynamics course from Zac Manchester](https://www.youtube.com/playlist?
 
 [Advanced Robotic Manipulation, Oussama Khatib](https://www.ce.cit.tum.de/fileadmin/w00cgn/rm/pdf/AdvancedRoboticManipulation.pdf)
 
+[Learning for Adaptive and Reactive Robot Control: A Dynamical Systems Approach](https://mitpress.mit.edu/9780262046169/), by Aude Billard, Sina Mirrazavi, Nadia Figueroa
+
 ### Imitation learning
 Florian's [imitation learning seminar course](http://www.cs.toronto.edu/~florian/courses/imitation_learning/). Look at the slides. 
 
