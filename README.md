@@ -184,5 +184,22 @@ SCALOR: Generative World Models with Scalable Object Representations, https://ar
 
 
 
+## HOW TO WRITE EFFECTIVELY
+
+[The art of writing effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM&list=PLG5oXmrs-KA3EhXr_82Yy9dPGImBTbmuv), by Larry McEnerney, Director of the University of Chicago's Writing Program
+[Writing beyond the Academy](https://www.youtube.com/watch?v=aFwVf5a3pZM&list=PLG5oXmrs-KA3EhXr_82Yy9dPGImBTbmuv&index=2), by Larry McEnerney, Director of the University of Chicago's Writing Program
+
+
+## ADVICE FOR GRADUATE STUDENTS (& their supervisors)
+[Eight lessons learned in two years of PhD](https://ai.engin.umich.edu/2023/08/17/eight-lessons-learned-in-two-years-of-ph-d/), by Muhammad Khalifa, PhD student, U. Michigan
+[Principles for productive group meetings](https://bounded-regret.ghost.io/principles-for-productive-group-meetings/), by Jacob Steinhardt, Assistant Professor, UC Berkeley
+[How I read research papers](https://www.let-all.com/assets/slides/How-to-ALT22-Aaditya.pdf), by Aaditya Ramdas, Assistant Professor, CMU
+[Principles for a PhD program](https://github.com/coallaoh/Principles/tree/main/principles/phd), by Seong Joon Oh, group leader, U. of Tuebingen 
+
+
+
+
+
+
 
 
