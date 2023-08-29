@@ -60,12 +60,18 @@ Yisong Yue's [imitation learning talk](https://www.youtube.com/watch?v=QW0I10a2T
 
 [Deep RL course at Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/), by Sergey Levine. Check out the youtube videos. This course is good for both discrete and continuous state and action RL, so it is applicable to robotics.
 
+[Guaranteed Discovery of Control-Endogenous Latent States with Multi-Step Inverse Models](https://arxiv.org/abs/2207.08229). See the related works section to learn more about state representations for RL. See also this paper and its related works: [Can Direct Latent Model Learning Solve Linear Quadratic Gaussian Control?](https://arxiv.org/abs/2212.14511).
+
+Monotonic improvement in model-based RL: see https://arxiv.org/abs/1807.03858 and https://arxiv.org/abs/1805.10755  
+
 ### Learning to plan/search
 These courses are about having controllers/policies/planning algorithms that get better over time, as they solve more problems. These two courses are unique in the world and very much bleeding edge.
 
 David Duvenaud's [seminar course](https://duvenaud.github.io/learning-to-search/). Combining Monte Carlo Tree Search with neural networks, learning from expensive algorithms.
 
-Yisong Yue's [seminar course](https://sites.google.com/view/cs-159-spring-2020/home). Learning for branch and bound optimizers, learning A* heuristics. Lots of good stuff here. 
+Yisong Yue's [seminar course](https://sites.google.com/view/cs-159-spring-2020/home). Learning for branch and bound optimizers, learning A* heuristics. Lots of good stuff here.
+
+
 
 ### Safety considerations in learning for control
 Scaling probabilistically safe imitation learning, Scott Niekum, [online talk](https://bluejeans.com/playback/s/zOSHqyZzGhSdPRQPl0448lckmbprGAmzQoTUKOGB5xjntbBZji0GHw2yZelRFH7K), which can also be found [here](https://youtu.be/slGmQv_pWs0).
@@ -84,7 +90,9 @@ A [survey paper](http://jmlr.org/papers/v16/garcia15a.html) on safe RL
 
 Constrained Policy Optimization [paper](https://arxiv.org/abs/1705.10528)
 
-Conservative Safety Critics for Exploration, https://openreview.net/forum?id=iaO86DUuKi
+[Conservative Safety Critics for Exploration](https://openreview.net/forum?id=iaO86DUuKi)
+
+
 
 
 ### Active learning and information gathering behaviors
