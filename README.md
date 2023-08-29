@@ -76,7 +76,11 @@ Yisong Yue's [imitation learning talk](https://www.youtube.com/watch?v=QW0I10a2T
 
 What is a good state representation/encoding for RL? See these papers and their related works to get started: https://arxiv.org/abs/2207.08229 (state encoding should be predictive of the next action in a multi-step inverse dynamics model), https://arxiv.org/abs/2212.14511 (state encoding should be predictive of rewards), or https://arxiv.org/abs/1811.04551 (state encoding should be predictive of next states, rewards, and able to reconstruct observations).
 
-Monotonic improvement in model-based RL: see https://arxiv.org/abs/1807.03858 and https://arxiv.org/abs/1805.10755  
+[Exploration strategies in deep RL](https://lilianweng.github.io/posts/2020-06-07-exploration-drl/)
+
+Monotonic improvement in model-based RL: see https://arxiv.org/abs/1807.03858 and https://arxiv.org/abs/1805.10755 
+
+
 
 ### Learning to plan/search
 These courses are about having controllers/policies/planning algorithms that get better over time, as they solve more problems. These two courses are unique in the world and very much bleeding edge.
@@ -218,6 +222,21 @@ Mitsuba2: A Retargetable Forward and Inverse Renderer [paper](https://rgl.epfl.c
 
 
 <br/>
+
+## GENERATIVE MODELS & INFERENCE METHODS
+
+[Variational Inference: a Review for Statisticians](https://arxiv.org/abs/1601.00670)
+
+Tutorials on Variational Autoencoders (VAEs): https://arxiv.org/abs/1606.05908 and https://jaan.io/what-is-variational-autoencoder-vae-tutorial/
+
+[Deep Learning Book](https://www.deeplearningbook.org/)
+
+[Deep Generative Modelling](https://link.springer.com/book/10.1007/978-3-030-93158-2)
+
+[What are diffusion models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
+
+<br/>
+
 
 ## HOW TO WRITE EFFECTIVELY
 
