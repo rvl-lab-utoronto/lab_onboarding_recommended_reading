@@ -6,18 +6,32 @@ A curated collection of papers and research materials that students need to be a
 
 ## Robotics and ML Seminar Series
 [UofT Robotics Institute Seminar Series](https://www.youtube.com/playlist?list=PLVWCqm4X2vZYsiSxf0auCRvgK97YDyZuX)
+
 [MIT Robotics Seminars](https://www.youtube.com/@MITRoboticsSeminar)
+
 [Robotics Today](https://www.youtube.com/@RoboticsTodaySeminar)
+
 [MIT Embodied Intelligence](https://www.youtube.com/@mitembodiedintelligence8675)
+
 [CMU Robotics Seminars](https://www.youtube.com/@cmurobotics)
+
 [CMU AI Seminars](https://www.youtube.com/@cmuaiseminar1950)
+
 [Montreal Robotics](https://www.youtube.com/@MontrealRobotics)
+
 [UPenn GRASP Lab Seminars](https://www.youtube.com/@grasplab)
+
 [ETH Zurich Autonomy Talks](https://www.youtube.com/@autonomytalks)
+
 [Vector Institute Visitor Talks](https://www.youtube.com/playlist?list=PLc9Df8nOsXg6QvnoL5DPZc-fHft20SiH4)
+
 [Control meets learning seminar series](https://www.youtube.com/@controlmeetslearning)
+
 [RL Theory Seminars, virtual](https://sites.google.com/view/rltheoryseminars)
 
+[Fields Institute ML Seminars 21'-22'](http://www.fields.utoronto.ca/activities/21-22/machine-learning)
+
+[Fields Institute ML Seminars 20'-21'](http://www.fields.utoronto.ca/activities/20-21/machine-learning)
 
 
 ## HOW TO MOVE
