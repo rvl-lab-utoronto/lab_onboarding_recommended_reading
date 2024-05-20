@@ -4,6 +4,22 @@ A curated collection of papers and research materials that students need to be a
 
 <br/>
 
+## Robotics and ML Seminar Series
+[UofT Robotics Institute Seminar Series](https://www.youtube.com/playlist?list=PLVWCqm4X2vZYsiSxf0auCRvgK97YDyZuX)
+[MIT Robotics Seminars](https://www.youtube.com/@MITRoboticsSeminar)
+[Robotics Today](https://www.youtube.com/@RoboticsTodaySeminar)
+[MIT Embodied Intelligence](https://www.youtube.com/@mitembodiedintelligence8675)
+[CMU Robotics Seminars](https://www.youtube.com/@cmurobotics)
+[CMU AI Seminars](https://www.youtube.com/@cmuaiseminar1950)
+[Montreal Robotics](https://www.youtube.com/@MontrealRobotics)
+[UPenn GRASP Lab Seminars](https://www.youtube.com/@grasplab)
+[ETH Zurich Autonomy Talks](https://www.youtube.com/@autonomytalks)
+[Vector Institute Visitor Talks](https://www.youtube.com/playlist?list=PLc9Df8nOsXg6QvnoL5DPZc-fHft20SiH4)
+[Control meets learning seminar series](https://www.youtube.com/@controlmeetslearning)
+[RL Theory Seminars, virtual](https://sites.google.com/view/rltheoryseminars)
+
+
+
 ## HOW TO MOVE
 
 <img src="https://github.com/rvl-lab-utoronto/lab_onboarding_recommended_reading/blob/master/motionplanning.png" width="30%">
@@ -51,7 +67,7 @@ Advanced [dynamics course from Zac Manchester](https://www.youtube.com/playlist?
 
 [AA 203: Optimal and Learning-Based Control](http://asl.stanford.edu/aa203/)
 
-[Control meets learning seminar series](https://sites.google.com/view/control-meets-learning/)
+[Control meets learning seminar series](https://sites.google.com/view/control-meets-learning/) and the associated [Youtube channel](https://www.youtube.com/@controlmeetslearning)
 
 [gradSim (differentiable physics and rendering)](https://openreview.net/forum?id=c_E8kFWfhp0&noteId=c_E8kFWfhp0) for system identification
 
@@ -84,6 +100,12 @@ What is a good state representation/encoding for RL? See these papers and their 
 [Exploration strategies in deep RL](https://lilianweng.github.io/posts/2020-06-07-exploration-drl/)
 
 Monotonic improvement in model-based RL: see https://arxiv.org/abs/1807.03858 and https://arxiv.org/abs/1805.10755 
+
+[RL Theory Seminars, virtual](https://sites.google.com/view/rltheoryseminars)
+
+[Lessons from AlphaZero for Optimal, Model-Predictive, and Adaptive Control (Bertsekas)](https://web.mit.edu/dimitrib/www/LessonsfromAlphazero.pdf)
+
+
 
 
 
@@ -239,6 +261,8 @@ Tutorials on Variational Autoencoders (VAEs): https://arxiv.org/abs/1606.05908 a
 [Deep Generative Modelling](https://link.springer.com/book/10.1007/978-3-030-93158-2)
 
 [What are diffusion models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
+
+[]
 
 <br/>
 
