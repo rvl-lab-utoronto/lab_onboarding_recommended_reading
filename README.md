@@ -66,6 +66,8 @@ Week 4, LQR, from Florian's [CSC477](http://www.cs.toronto.edu/~florian/courses/
 
 Lecture 2 on LQR, iterative LQR, and model-based RL, from Florian's [grad course](http://www.cs.toronto.edu/~florian/courses/imitation_learning/)  
 
+[An introduction to trajectory optimization](https://epubs.siam.org/doi/10.1137/16M1062569)
+
 [Underactuated robotics course at MIT](https://www.youtube.com/channel/UChfUOAhz7ynELF-s_1LPpWg/playlists), 2020 version, from Russ Tedrake. Also check out his [online book](http://underactuated.mit.edu/underactuated.html) on the same topic. 
 
 All of Steve Brunton's [videos](https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw/playlists) on learning for control are interesting, but the following playlists in particular are worth understanding: 
